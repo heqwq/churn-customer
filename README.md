@@ -23,17 +23,26 @@
 
 <img width="1830" height="964" alt="image" src="https://github.com/user-attachments/assets/ea5c1457-b9f4-4801-a78d-379842c03847" />
 
+
+
 以下是通过python代码生成的图
+
+
 
 <img width="737" height="563" alt="python导出图片（2）" src="https://github.com/user-attachments/assets/f0b8f0ee-6dd1-4b59-87e7-895d6bdc6a44" />
 <img width="1031" height="653" alt="python导出图片（1）" src="https://github.com/user-attachments/assets/133ff039-bb57-4615-8dc5-cba316ac7008" />
 <img width="1135" height="382" alt="python导出图片" src="https://github.com/user-attachments/assets/e5493951-2014-4711-b1eb-3248960903eb" />
 
+
+
 以下是pdf和仪表板（因为pdf需要下载，我还放了pdf部分图片）
+
 
 <img width="311" height="886" alt="image" src="https://github.com/user-attachments/assets/660c7dac-3dc5-411e-b085-d4ba185498f2" />
 
+
 [消费客户流失报告.pdf](https://github.com/user-attachments/files/31417598/default.pdf)
 [仪表板.pdf](https://github.com/user-attachments/files/31417604/default.pdf)
+
 
 技术栈Python · Pandas · Matplotlib · FineBI · Excel
