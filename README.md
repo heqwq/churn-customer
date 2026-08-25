@@ -2,20 +2,20 @@
 
 标题：客户流失分析
 
-简介：900+客户数据，分析流失率与消费水平、年龄、账户经理的关系
+简介：900+客户数据，分析流失率与客户年限、账户经理、站点数量的关系
 
-核心结论： 经过分析我判断
+核心结论：
 
 1.缺乏老客户运营机制，老客户流失率高，8年以上老客户甚至有40%流失率
 
-2.有经理反而流失率更高，19%流失率，高出5个百分点
+2.有经理反而流失率更高，19%流失率，高出5个百分点（分析发现，账户经理更倾向于分配给低消费、短年限的客户，分配策略问题出问题）
 
 （1）	客户出了问题、快流失了才给配个经理，但已经晚了
 
 （2）	经理服务质量不行，配了但没起到留存作用，甚至可能因为对接体验差加速流失
 
-
 3.站点大于9之后，顾客流失率大幅增加，其中12~15站点处流失全部更多。
+
 
 以下是通过fine bi数据工具生成的图（由于分析的图不少我就放部分）
 
@@ -35,16 +35,15 @@
 <img width="1031" height="653" alt="python导出图片（1）" src="https://github.com/user-attachments/assets/133ff039-bb57-4615-8dc5-cba316ac7008" />
 <img width="1135" height="382" alt="python导出图片" src="https://github.com/user-attachments/assets/e5493951-2014-4711-b1eb-3248960903eb" />
 
+技术栈Python · Pandas · Matplotlib · FineBI · Excel
 
-
-以下是pdf和仪表板（因为pdf需要下载，我还放了pdf部分图片）
+以下是pdf和仪表板（因为pdf需要下载，我还放了pdf部分图片，PDF 版本包含完整分析报告和仪表板）
 
 
 <img width="311" height="886" alt="image" src="https://github.com/user-attachments/assets/660c7dac-3dc5-411e-b085-d4ba185498f2" />
 
 
+
 [消费客户流失报告.pdf](https://github.com/user-attachments/files/31417598/default.pdf)
 [仪表板.pdf](https://github.com/user-attachments/files/31417604/default.pdf)
 
-
-技术栈Python · Pandas · Matplotlib · FineBI · Excel
