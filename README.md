@@ -14,7 +14,8 @@
 
 
 3.站点大于9之后，顾客流失率大幅增加，其中12~15站点处流失全部更多。
-以下是通过fine bi数据工具生成的图（由于分析的图太多我就放部分）
+
+以下是通过fine bi数据工具生成的图（由于分析的图不少我就放部分）
 
 <img width="1459" height="868" alt="image" src="https://github.com/user-attachments/assets/9b501f32-8f19-4c41-b0a2-717b4d6ac61c" />
 
@@ -28,7 +29,9 @@
 <img width="1031" height="653" alt="python导出图片（1）" src="https://github.com/user-attachments/assets/133ff039-bb57-4615-8dc5-cba316ac7008" />
 <img width="1135" height="382" alt="python导出图片" src="https://github.com/user-attachments/assets/e5493951-2014-4711-b1eb-3248960903eb" />
 
-以下是pdf和仪表盘
+以下是pdf和仪表板（因为pdf需要下载，我还放了pdf部分图片）
+
+<img width="311" height="886" alt="image" src="https://github.com/user-attachments/assets/660c7dac-3dc5-411e-b085-d4ba185498f2" />
 
 [消费客户流失报告.pdf](https://github.com/user-attachments/files/31417598/default.pdf)
 [仪表板.pdf](https://github.com/user-attachments/files/31417604/default.pdf)
